@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Assistente de Engenharia de Prompt",
+  "description": "Uma ferramenta com IA para ajudar a criar prompts mais claros e eficazes, melhorando a escolha de palavras e a estrutura das frases para melhores resultados de IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
